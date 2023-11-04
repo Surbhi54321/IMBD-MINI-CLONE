@@ -1,4 +1,4 @@
-# IMDb_Clone_CodingNinjas_FrontEnd_Project
+# IMDB_MINI_CLONE_CodingNinjas_FrontEnd_Project
 This is a simple web-based IMDb clone application that allow user to find his/her favorite movies and see rating numbers.This application is built using HTML, CSS, and JavaScript.
 
 ## Feature of WebApp
