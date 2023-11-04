@@ -13,3 +13,4 @@ Display a list of all the favourite movies.
 User able to add more movies or remove movies by clicking on remove button.
 To fetch the movie details i have used api from "the movie database" (tmdb) -> https://developers.themoviedb.org/3/getting-started/introduction
 ### Demo
+"C:\Users\princ\OneDrive\Pictures\ss.png"
